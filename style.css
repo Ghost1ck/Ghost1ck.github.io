@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+*{
+    margin:0px;
+    font-size: 18px;
+}
+
+body{
+    background-color:#8B4C17;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 2000px;
+    font-weight: 1450px;
+}
+main{
+    margin:5px;
+}
+
+header{
+    padding:10px 5%;
+    background-color:#C1733E;
+    margin: 0px 0 0 0;
+}
+
+header>*{
+    display:inline-block;
+    width: 450px;
+}
+
+.pustota{
+    width:10%;
+}
+ 
+
+a{
+    text-decoration:none;
+    color:black;
+    margin:0 10px;
+    font-size:19px;
+}
+
+.nazvan{
+    font-family: 'Pangolin', cursive;
+    font-size: 50px;
+}
+
+
+
+.shapka{
+    position: relative;
+    left:570px;
+    top:220px
+    
+}
+
+.podshap{
+    color:white;
+    position: relative;
+    left:610px;
+    top:220px;
+}
+
+.oigre{
+    color:white;
+    position: relative;
+    bottom: 260px;
+    text-align: center; 
+}
+
+.process{
+    color:white;
+    position:relative;
+    top:80px;
+    text-align: center; 
+
+}
+
+.grafon{
+    color:white;
+    position: relative;
+    top: 150px;
+    text-align: center; 
+
+}
+
+.tgraf{
+    position: relative;
+    top:50px;
+    left: 1px;
+}
+
+.skobgraf{
+    position: relative;
+    top:88px;
+    left: 1px;
+}
+
+.img1{
+    position: relative;
+    top:125px;
+    left:200px;
+    weight:250px;
+    height: 250px;
+}
+
+.img2{
+    position: relative;
+    top:125px;
+    left:240px;
+    weight:250px;
+    height: 250px;
+}
+
+.img3{
+    position: relative;
+    top:450px;
+    right:525px;
+    weight:250px;
+    height: 250px;
+}
+
+#perss{
+    color:white;
+    position: relative;
+    top:700px;
+    text-align: center; 
+
+}
+
+.higr{
+    color:#FED607;
+}
+
+.hpros{
+    color:#FED607;
+}
+
+.hgraf{
+    color:#FED607;
+}
+
+.hpers{
+    color:#FED607;
+}
+
+.Lit{
+    color:#FED607;
+   
+}
+
+.Klt{
+    color:#FED607;
+}
+
+.Ket{
+    color:#FED607;
+}
+
+
+
+#persid{
+    height: 400px;
+    weight:400px;
+    position: relative;
+    top:150px;
+    right: 1px;
+}
+
+.LiIvi{
+    position: relative;
+    top:150px;
+    right:350px;
+}
+
+.Ken{
+    position: relative;
+    top:130px;
+    right:1px;
+}
+
+.Clemen{
+    position: relative;
+    top:112px;
+    left:375px;
+}
+
+.Zakl{
+    position: relative;
+    top:300px;
+    text-align: center;
+    font-size: 20px;
+}
+
+footer{
+    background-color:black;
+    position: relative;
+    top:1500px;
+    text-align:center;
+    color:white;
+}
